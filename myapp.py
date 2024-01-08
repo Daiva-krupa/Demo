@@ -10,7 +10,7 @@ st.image("./Shitzu.jpg",width=200,use_column_width=True)
 st.write("Shitzu dogs are small and cute")
 
 st.subheader("Bull Dog")
-st.image("./Bulldog.jpg",width=200,use_column_width=True)
+st.image("./Bulldog.jpg",width=200)
 st.write("Bull dogs are much aggressive")
 
 
