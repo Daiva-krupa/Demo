@@ -15,5 +15,5 @@ with col2:
 
 with col3:
   st.subheader("Bull Dog")
-  st.image("./Bull.jpg",,width=500,use_column_width=True)
+  st.image("./Bulldog.jpg",,width=500,use_column_width=True)
   st.write("Bull dogs are much aggressive")
