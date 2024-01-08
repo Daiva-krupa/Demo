@@ -10,10 +10,10 @@ with col1:
 
 with col2:
   st.subheader("Shitzu Dog")
-  st.image("./Shitzu.jpg",,width=500,use_column_width=True)
+  st.image("./Shitzu.jpg",width=500,use_column_width=True)
   st.write("Shitzu dogs are small and cute")
 
 with col3:
   st.subheader("Bull Dog")
-  st.image("./Bulldog.jpg",,width=500,use_column_width=True)
+  st.image("./Bulldog.jpg",width=500,use_column_width=True)
   st.write("Bull dogs are much aggressive")
