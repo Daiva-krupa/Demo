@@ -1,7 +1,8 @@
 import streamlit as st
 st.set_page_config(page_title='Dogs')
 st.header("Types of Dogs")
-st.subheader("Retriever Dog",color='blue')
+
+st.markdown("<h3 style='color: blue;'>Retriever Dog</h3>", unsafe_allow_html=True)
 st.image("./Retriver.jpg",width=200,use_column_width=True)
 st.write("Retriver dogs are honest and faithfull")
 
