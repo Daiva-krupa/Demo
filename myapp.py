@@ -17,3 +17,15 @@ with col3:
   st.subheader("Bull Dog")
   st.image("./Bulldog.jpg",width=600,use_column_width=True)
   st.write("Bull dogs are much aggressive")
+
+
+with col3:
+  st.subheader("Alaskan Dog")
+  st.image("./Alaskan.jpg",width=600,use_column_width=True)
+  st.write("Alaskans are intelligent and active")
+
+
+with col4:
+  st.subheader("Beagle Dog")
+  st.image("./Beagle.jpg",width=600,use_column_width=True)
+  st.write("Beagles are loving and lovable")
