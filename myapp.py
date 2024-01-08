@@ -5,7 +5,7 @@ st.header("types of Dogs")
 col1,col2,col3=st.columns(3)
 with col1:
   st.subheader("Retriever Dog")
-  st.image("./Retriver.jpg",width=500,use_column_width=True)
+  st.image("./Retriver.jpg",width=600,use_column_width=True)
   st.write("Retriver dogs are honest and faithfull")
 
 with col2:
@@ -15,5 +15,5 @@ with col2:
 
 with col3:
   st.subheader("Bull Dog")
-  st.image("./Bulldog.jpg",width=500,use_column_width=True)
+  st.image("./Bulldog.jpg",width=600,use_column_width=True)
   st.write("Bull dogs are much aggressive")
