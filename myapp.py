@@ -21,11 +21,11 @@ with col3:
 
 with col3:
   st.subheader("Alaskan Dog")
-  st.image("./Alaskan.jpg",width=600,use_column_width=True)
+  st.image("./Alaskan.jpg",width=600,use_column_width=False)
   st.write("Alaskans are intelligent and active")
 
 
 with col4:
   st.subheader("Beagle Dog")
-  st.image("./Beagle.jpg",width=600,use_column_width=False)
+  st.image("./Beagle.jpg",width=600,use_column_width=True)
   st.write("Beagles are loving and lovable")
