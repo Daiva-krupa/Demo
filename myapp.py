@@ -1,7 +1,7 @@
 import streamlit as st
 st.set_page_config(page_title='Dogs')
-st.header("Types of Dogs")
-st.markdown("<h3 style='color: pink;'>Types of Dogs</h3>", unsafe_allow_html=True)
+
+st.markdown("<h3 style='color: pink;font-size:15pts'>Types of Dogs</h3>", unsafe_allow_html=True)
 
 st.markdown("<h3 style='color: blue;'>Retriever Dog</h3>", unsafe_allow_html=True)
 st.image("./Retriver.jpg",width=200,use_column_width=True)
