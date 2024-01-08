@@ -27,5 +27,5 @@ with col3:
 
 with col4:
   st.subheader("Beagle Dog")
-  st.image("./Beagle.jpg",width=600,use_column_width=True)
+  st.image("./Beagle.jpg",width=600,use_column_width=False)
   st.write("Beagles are loving and lovable")
